@@ -17,10 +17,11 @@ This is my personal Tohru theme for the popular communication app, BetterDiscord
 5. Go back to the "Themes" section and enable the "Tohru" theme
 
 ## Installation for Vancord
-1.Click on "TohruThemeShinni.css"
-2.Click on Raw and then copy the URL 
-3.Open Vancord and go to the "Themes" section in User Settings
-4.Paste the link in THEMES where it says "Theme Links" 
+
+1. Click on "TohruThemeShinni.css"
+2. Click on Raw and then copy the URL 
+3. Open Vancord and go to the "Themes" section in User Settings
+4. Paste the link in THEMES where it says "Theme Links" 
 
 ## Support
 
