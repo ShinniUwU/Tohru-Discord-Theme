@@ -1,6 +1,6 @@
 # Tohru Theme for BetterDiscord and Other Similar Apps
 
-This is my personal Tohru theme for BetterDiscord,Vancord and other similar apps. The theme is inspired by the character Tohru from the anime.
+This is my personal Tohru theme for BetterDiscord,Vancord and other similar apps. The theme is inspired by the character Tohru Kobayashi from the anime.
 
 ## Features
 
