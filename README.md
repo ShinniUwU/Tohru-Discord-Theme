@@ -6,7 +6,7 @@ This is my personal Tohru theme for the popular communication app, BetterDiscord
 
 - A beautiful and clean design inspired by Tohru using ClearVision
 - Custom background and accent colors to match the Tohru theme
-- Customizable (if you download it DOESN'T WORK WITH VANCORD)
+- Customizable (DOESN'T WORK WITH VANCORD unless you copy and paste the code in QuickCSS)
 
 ## Installation for BetterDiscord
 
